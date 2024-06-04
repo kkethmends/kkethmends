@@ -5,7 +5,7 @@ Meu nome é Kéthlyn Mendes
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-  ### você entrar em contto comigo 📫
+  ### você entrar em contato comigo 📫
 00001106684795sp@al.educacao.sp.gov.br
 
 ![](https://media1.tenor.com/m/OBCzNJ0Gt8oAAAAC/bakugou-katsuki-bakugou.gif) 
